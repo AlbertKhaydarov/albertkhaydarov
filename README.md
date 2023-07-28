@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Key skills: Swift, UIKit, Snapkit, URLSession, Alamofire, CoreData, Firebase, Carthage
+Architecture patterns: MVP, Clean Swift
 <!--
 **AlbertKhaydarov/albertkhaydarov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
