@@ -1,5 +1,4 @@
-
-
+![3985-o](https://github.com/AlbertKhaydarov/albertkhaydarov/assets/94747384/64195b33-4e2c-4d9b-8bf5-53d2f3a78a91)
 
 <h1 align="center">Hi there, I'm <target="_blank">Albert</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
@@ -8,8 +7,6 @@
 <h4 align="left">Key skills: Swift, UIKit, Snapkit, URLSession, Alamofire, CoreData, Firebase, Carthage</h4>
 <h4 align="left">Architecture patterns: MVP, Clean Swift</h4>
 
-Key skills: Swift, UIKit, Snapkit, URLSession, Alamofire, CoreData, Firebase, Carthage
-Architecture patterns: MVP, Clean Swift
 
 <!--
 **AlbertKhaydarov/albertkhaydarov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
