@@ -6,7 +6,7 @@
 
 <h4 align="center">Key skills: Swift, UIKit, Snapkit, URLSession, Alamofire, CoreData, Firebase, Carthage</h4>
 <h4 align="center">Architecture patterns: MVP, Clean Swift</h4>
-
+<h5 align="center">Вы моожете связаться со мной: https://t.me/Albert_Khaydarov</h5>
 
 <!--
 **AlbertKhaydarov/albertkhaydarov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
